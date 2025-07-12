@@ -38,8 +38,19 @@ The usage and outcome of the Scene Browser are very similar to that in the Navig
 
   ![search_and_select_demo](src-assets/filter_type_demo.gif)
 
+  
 - The Close on select toggle is also there to keep the window active even after selecting a component from the list. This will help while interchanging between selecting multiple components.
 
   ![search_and_select_demo](src-assets/close_on_select.gif)
 
   - The option to select multiple objects in one go is under development.
+ 
+- As always, the interface window can be docked anywhere on the MotionBuilder Layout.
+
+  ![search_and_select_demo](src-assets/docking_window_demo.gif)
+
+
+# License
+
+This project is licensed under the BSD 3-Clause License. See the LICENSE file for full details.
+
